@@ -1,16 +1,17 @@
 #title in header
-title: "Hi Folks."
+title: "Hao's Blog"
 
 #main info
 #owner
-owner: "I am Adi Sakti Jrs"
-email: test@test.test
-info: "A student and web developer from Indonesia 🇮🇩"
+owner: "I am Hao Liu"
+email: haoliutech@gmail.com
+info: "A computer science student and software developer based in Adelaide, 🇦🇺."
 #description
-desc: "This is Minima, an undoubtedly simple and lightweight dark/light mode theme for Hexo. I created this from scratch using Skeleton CSS boilerplate. It only uses CSS and Vanilla JS, without using unnecessary third-party 'render-blocking' libraries! 😁"
+desc: "I write about tech and my reading. Feel free to contact me."
 
 #menu
 menu:
+  Resume: /Resume
   Works: /Works
   About: /About
 
@@ -28,13 +29,14 @@ usercss: css/user.css
 
 # social profile at the footer/bottom
 footer: true
-placename: Earth
+placename: 🌏
 placelink: https://en.wikipedia.org/wiki/Earth
-github: https://github.com/adisaktijrs
-linkedin: https://linkedin.com/in/adisaktijrs
-twitter: https://twitter.com/adisaktijrs
-instagram: https://instagram.com/adisaktijrs
-stackoverflow: https://stackoverflow.com/story/tobiasreithmeier
+github: https://github.com/haoliutech
+linkedin: https://www.linkedin.com/in/haoliu3/
+twitter: https://twitter.com/HaoLiuTech
+youtube: https://twitter.com/HaoLiuTech
+#instagram: https://instagram.com/adisaktijrs
+stackoverflow: https://stackoverflow.com/users/19679458/hao-liu?tab=profile
 
 # Misc
 nanobar: /js/nanobar.min.js
@@ -45,7 +47,7 @@ switch_dark: 🌑
 picjs: /js/pic.min.js
 
 # favicon
-favicon: /images/favicon.png
+favicon: /images/Hao-Liu-1.png
 # thumbnail
 thumbnail: /images/thumbnail.jpg
 
